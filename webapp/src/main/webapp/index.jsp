@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>ArulOK: New user Register for DevOps Learning</h1>
-    <p>TestOK: Please fill in this form to create an account.</p>
+    <h1>AnsibleOK: New user Register for DevOps Learning</h1>
+    <p>DockerHub Updates: Please fill in this form to create an account.</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
